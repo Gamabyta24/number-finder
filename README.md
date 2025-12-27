@@ -1,4 +1,7 @@
 # Number-finder
+[![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![flake8](https://img.shields.io/badge/flake8-passing-brightgreen)](https://flake8.pycqa.org)
+
 
 Быстрый поиск кода ОКВЭД по окончанию номера телефона.
 
